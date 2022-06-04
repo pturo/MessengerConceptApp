@@ -20,7 +20,7 @@ Examples of working app below:
 
 ## Goals
 
-Trying Flutter framewrok and just learn.
+Try Flutter framewrok and just learn.
 
 ## License
 
