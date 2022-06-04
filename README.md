@@ -1,22 +1,29 @@
 # Messenger Concept App
 
-A new Flutter project. App made with tutorial on YouTube: https://www.youtube.com/watch?v=h-igXZCCrrc&list=LL&index=4&t=0s
+## What's new?
 
-## Getting Started
+There is no new features.
 
-This project is a starting point for a Flutter application.
+## About project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Messenger-like concept application made with Flutter framework. App made with tutorial on YouTube: https://www.youtube.com/watch?v=h-igXZCCrrc&list=LL&index=4&t=0s
 
 Examples of working app below:
 
 ![appexample1](./appexample/appexample1.png)
 
 ![appexample2](./appexample/appexample2.png)
+
+## Technologies used in the project
+
+* Dart/Flutter
+
+## Goals
+
+Trying Flutter framewrok and just learn.
+
+## License
+
+My project is under BSD-2-Clause license. You can use some parts from my code but remember to credit me as an appreciation to my work! Thanks! Awoo!
+
+© 2022 Paweł "Wilczeq/Vlk" Turoń
